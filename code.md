@@ -7,3 +7,5 @@
 6.pyOpenSSL 0.13 
 7.用pip安装scrapy
 http://mygreatname.com/google-pagerank/pagerank-calculation-example-01-1.html
+
+http://www.stat.ucla.edu/~dinov/courses_students.dir/04/Spring/Stat233.dir/Stat233_notes.dir/EM_Tutorial.html
