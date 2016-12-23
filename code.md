@@ -11,3 +11,5 @@ http://mygreatname.com/google-pagerank/pagerank-calculation-example-01-1.html
 http://www.stat.ucla.edu/~dinov/courses_students.dir/04/Spring/Stat233.dir/Stat233_notes.dir/EM_Tutorial.html
 
 http://blog.csdn.net/simple_the_best/article/details/51589495
+
+http://blog.csdn.net/xmu_jupiter/article/details/50965039
