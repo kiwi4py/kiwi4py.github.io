@@ -13,3 +13,4 @@ http://www.stat.ucla.edu/~dinov/courses_students.dir/04/Spring/Stat233.dir/Stat2
 http://blog.csdn.net/simple_the_best/article/details/51589495
 
 http://blog.csdn.net/xmu_jupiter/article/details/50965039
+https://www.oreilly.com.cn/ideas/
