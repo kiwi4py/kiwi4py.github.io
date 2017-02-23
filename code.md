@@ -63,3 +63,5 @@ https://www.oreilly.com.cn/ideas/
 <ul>
   <li><a href="http://www.phil.pku.edu.cn/personal/wangyj/files/StoS.html">《从学生到学者：通往教授之路》里面的一个故事</a></li>
 </ul>
+
+https://www.nodebox.net/code/index.php/Linguistics#verb_conjugation
